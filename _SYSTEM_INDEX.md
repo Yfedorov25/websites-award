@@ -24,6 +24,21 @@ P_agency · P_saas_landing · P_realestate · P_ecommerce · P_edtech
 (готова карта секцій + норми + емоційна дуга + які рецепти використати)
 ### _NORMS_reference.md — виробничі норми (символи/екрани/секції з реальних замірів).
 
+## teardowns_reference/
+- D_SilverPinewood.md — luxury ЖК (Vide Infra · Locomotive+WebGL · «quiet luxury»)
+- D_OliviaHarper.md — US ultra-luxury custom homes (WP+Elementor+Lenis+GSAP · інвест-кут)
+- D_FindRealEstate.md — RE-платформа/брокеридж (Cuberto · Lenis · двотоновий scroll-fill заголовок)
+- D_CarbonRobotics.md — агротех/LaserWeeder (Squarespace+video · ROI · дарк-тех)
+- D_MonarchTractor.md — е-трактор (HubSpot+GSAP · фінансування · дарк+зелений)
+- D_Fendt.md — преміум агро-бренд (React+GSAP+Lenis · спадок/статус)
+- _QUEUE_realestate.md — черга глибокого скрапу нерухомості
+
+## library/recipes/
+- R_text_scroll_fill.md — двотоновий заголовок, що «заливається» на скролі (GSAP ScrollTrigger)
+
+## library/patterns/
+- P_agro_industrial.md — патерн агро/індастріал-обладнання (+ прямий мапінг на Phoenix-tec)
+
 ## ЯК РОСТЕ:
 Бібліотека розширюється (нові рецепти/ефекти/патерни/ніші). META + аналізатори стабільні.
 A1 уточнюється новими критеріями з нових розборів.
